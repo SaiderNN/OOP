@@ -1,0 +1,22 @@
+﻿<Window x:Class="ООП_4_Задание_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ООП_4_Задание_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="RunBtn" Content="Запустить" HorizontalAlignment="Left" Margin="314,255,0,0" VerticalAlignment="Top" Height="94" Width="146" Click="Result_Click"/>
+        <Label x:Name="passlb" Content="Label" HorizontalAlignment="Left" Margin="292,208,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="faillb" Content="Label" HorizontalAlignment="Left" Margin="433,208,0,0" VerticalAlignment="Top"/>
+        <ListView x:Name="ResList" d:ItemsSource="{d:SampleData ItemCount=5}" Height="NaN" Margin="263,10,280,231" Width="NaN">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

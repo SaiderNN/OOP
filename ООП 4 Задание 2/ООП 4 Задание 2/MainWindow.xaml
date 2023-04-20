@@ -1,0 +1,16 @@
+﻿<Window x:Class="ООП_4_Задание_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ООП_4_Задание_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="MaterialBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,646,260" Height="NaN" Width="NaN" SelectionChanged="SelectionChanged"/>
+        <ListBox x:Name="CrossSectionBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="177,10,482,260" Height="NaN" Width="NaN" SelectionChanged="SelectionChanged" />
+        <ListBox x:Name="TestResultBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="340,10,313,260" Height="NaN" Width="NaN" SelectionChanged="SelectionChanged"/>
+        <Label x:Name="Answer" Content="" HorizontalAlignment="Left" Margin="11,243,0,0" VerticalAlignment="Top" Width="307"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\bin\Debug\net6.0-windows\ООП Задание 1.7.exe
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\bin\Debug\net6.0-windows\ООП Задание 1.7.deps.json
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\bin\Debug\net6.0-windows\ООП Задание 1.7.runtimeconfig.json
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\bin\Debug\net6.0-windows\ООП Задание 1.7.dll
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\bin\Debug\net6.0-windows\ООП Задание 1.7.pdb
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП_Задание_1._7.Form1.resources
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП_Задание_1._7.Properties.Resources.resources
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.csproj.GenerateResource.cache
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.AssemblyInfoInputs.cache
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.AssemblyInfo.cs
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.dll
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\refint\ООП Задание 1.7.dll
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.pdb
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ООП Задание 1.7.genruntimeconfig.cache
+C:\Users\Saider\source\repos\ООП Задание 1.7\ООП Задание 1.7\obj\Debug\net6.0-windows\ref\ООП Задание 1.7.dll

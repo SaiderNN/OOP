@@ -1,0 +1,11 @@
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП 2 Задание 2 params.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП 2 Задание 2 params.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП_2_Задание_2_params.Form1.resources
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП_2_Задание_2_params.Properties.Resources.resources
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП 2 Задание 2 params.csproj.GenerateResource.cache
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП 2 Задание 2 params.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\bin\Debug\ООП 2 Задание 2 params.exe.config
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\bin\Debug\ООП 2 Задание 2 params.exe
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\bin\Debug\ООП 2 Задание 2 params.pdb
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП 2 Задание 2 params.exe
+C:\Users\Saider\source\repos\ООП 2 Задание 2 params\ООП 2 Задание 2 params\obj\Debug\ООП 2 Задание 2 params.pdb

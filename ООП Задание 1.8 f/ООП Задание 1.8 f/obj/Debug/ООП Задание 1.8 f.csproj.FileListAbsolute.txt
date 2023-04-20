@@ -1,0 +1,8 @@
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\obj\Debug\ООП Задание 1.8 f.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\obj\Debug\ООП Задание 1.8 f.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\obj\Debug\ООП Задание 1.8 f.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\bin\Debug\ООП Задание 1.8 f.exe.config
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\bin\Debug\ООП Задание 1.8 f.exe
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\bin\Debug\ООП Задание 1.8 f.pdb
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\obj\Debug\ООП Задание 1.8 f.exe
+C:\Users\Saider\source\repos\ООП Задание 1.8 f\ООП Задание 1.8 f\obj\Debug\ООП Задание 1.8 f.pdb

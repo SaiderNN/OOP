@@ -1,0 +1,11 @@
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\bin\Debug\ООП 3 Задание 3.exe.config
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\bin\Debug\ООП 3 Задание 3.exe
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\bin\Debug\ООП 3 Задание 3.pdb
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП 3 Задание 3.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП 3 Задание 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП_3_Задание_3.Form1.resources
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП_3_Задание_3.Properties.Resources.resources
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП 3 Задание 3.csproj.GenerateResource.cache
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП 3 Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП 3 Задание 3.exe
+C:\Users\Saider\source\repos\ООП 3 Задание 3\ООП 3 Задание 3\obj\Debug\ООП 3 Задание 3.pdb

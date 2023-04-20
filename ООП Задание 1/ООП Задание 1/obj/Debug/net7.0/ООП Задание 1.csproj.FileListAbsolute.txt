@@ -1,0 +1,15 @@
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.AssemblyInfoInputs.cache
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.AssemblyInfo.cs
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\bin\Debug\net7.0\ООП Задание 1.exe
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\bin\Debug\net7.0\ООП Задание 1.deps.json
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\bin\Debug\net7.0\ООП Задание 1.runtimeconfig.json
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\bin\Debug\net7.0\ООП Задание 1.dll
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\bin\Debug\net7.0\ООП Задание 1.pdb
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.dll
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\refint\ООП Задание 1.dll
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.pdb
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ООП Задание 1.genruntimeconfig.cache
+C:\Users\Saider\source\repos\ООП Задание 1\ООП Задание 1\obj\Debug\net7.0\ref\ООП Задание 1.dll
