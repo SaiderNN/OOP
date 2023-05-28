@@ -14,3 +14,19 @@ C:\Users\Saider\source\repos\ООП 3 Задание 1\ООП 3 Задание 1
 C:\Users\Saider\source\repos\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.csproj.CoreCompileInputs.cache
 C:\Users\Saider\source\repos\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.exe
 C:\Users\Saider\source\repos\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.pdb
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\bin\Debug\ООП 3 Задание 1.exe.config
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\bin\Debug\ООП 3 Задание 1.exe
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\bin\Debug\ООП 3 Задание 1.pdb
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\MainWindow.g.cs
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\App.g.cs
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1_MarkupCompile.cache
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1_MarkupCompile.lref
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\MainWindow.baml
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.g.resources
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП_3_Задание_1.Properties.Resources.resources
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.csproj.GenerateResource.cache
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.exe
+C:\Users\Saider\source\repos\OOP\ООП 3 Задание 1\ООП 3 Задание 1\obj\Debug\ООП 3 Задание 1.pdb

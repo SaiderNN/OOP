@@ -14,3 +14,19 @@ C:\Users\Saider\source\repos\ООП 4 Задание 2\ООП 4 Задание 2
 C:\Users\Saider\source\repos\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.csproj.CoreCompileInputs.cache
 C:\Users\Saider\source\repos\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.exe
 C:\Users\Saider\source\repos\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.pdb
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\bin\Debug\ООП 4 Задание 2.exe.config
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\bin\Debug\ООП 4 Задание 2.exe
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\bin\Debug\ООП 4 Задание 2.pdb
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\App.g.cs
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2_MarkupCompile.cache
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2_MarkupCompile.lref
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\MainWindow.baml
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.g.resources
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП_4_Задание_2.Properties.Resources.resources
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.csproj.GenerateResource.cache
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.exe
+C:\Users\Saider\source\repos\OOP\ООП 4 Задание 2\ООП 4 Задание 2\obj\Debug\ООП 4 Задание 2.pdb

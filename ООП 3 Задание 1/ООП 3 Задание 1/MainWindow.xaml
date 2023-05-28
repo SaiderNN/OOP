@@ -8,7 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Button1" Content="Showdown" HorizontalAlignment="Left" Margin="149,189,0,0" VerticalAlignment="Top" Height="79" Width="148" Click="Button1_Click"/>
-        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="400,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="327" Width="340" Background="#FFF1EBEB"/>
-
+        <ScrollViewer Margin="400,45,60,62">
+            <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Background="#FFF1EBEB" Width="300"/>
+        </ScrollViewer>
     </Grid>
+
 </Window>

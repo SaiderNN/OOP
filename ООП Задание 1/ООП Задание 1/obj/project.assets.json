@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saider\\source\\repos\\ООП Задание 1\\ООП Задание 1\\ООП Задание 1.csproj",
+      "projectUniqueName": "C:\\Users\\Saider\\source\\repos\\OOP\\ООП Задание 1\\ООП Задание 1\\ООП Задание 1.csproj",
       "projectName": "ООП Задание 1",
-      "projectPath": "C:\\Users\\Saider\\source\\repos\\ООП Задание 1\\ООП Задание 1\\ООП Задание 1.csproj",
+      "projectPath": "C:\\Users\\Saider\\source\\repos\\OOP\\ООП Задание 1\\ООП Задание 1\\ООП Задание 1.csproj",
       "packagesPath": "C:\\Users\\Saider\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saider\\source\\repos\\ООП Задание 1\\ООП Задание 1\\obj\\",
+      "outputPath": "C:\\Users\\Saider\\source\\repos\\OOP\\ООП Задание 1\\ООП Задание 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saider\\AppData\\Roaming\\NuGet\\NuGet.Config",

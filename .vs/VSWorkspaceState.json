@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ООП 2 Задание 1",
-    "\\ООП 2 Задание 1\\ООП 2 Задание 1"
+    "\\PC_Shop",
+    "\\PC_Shop\\PC_Shop",
+    "\\PC_Shop\\PC_Shop\\Settings",
+    "\\ООП 3 Задание 1",
+    "\\ООП Задание 1.7"
   ],
-  "SelectedNode": "\\ООП 2 Задание 1\\ООП 2 Задание 1\\Form1.cs",
+  "SelectedNode": "\\PC_Shop\\PC_Shop\\Settings\\Config.cs",
   "PreviewInSolutionExplorer": false
 }

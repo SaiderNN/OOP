@@ -66,7 +66,7 @@ namespace ООП_2_Задание_4
                     for (int j = 0; j < MatrixB.ColumnCount; j++)
                     {
                         double element = 0;
-                        for (int k = 0; k < MatrixC.ColumnCount; k++)
+                        for (int k = 0; k < MatrixA.ColumnCount; k++)
                         {
                             element +=
                             Convert.ToDouble(MatrixA.Rows[i].Cells[k].Value) *

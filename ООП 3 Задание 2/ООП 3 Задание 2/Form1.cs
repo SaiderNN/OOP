@@ -25,7 +25,7 @@ namespace ООП_3_Задание_2
             bool check2 = int.TryParse(ColumnsA.Text, out columns1);
             bool check3 = int.TryParse(RowsB.Text, out rows2);
             bool check4 = int.TryParse(ColumnsB.Text, out columns2);
-            if (check1 && check2 && check2 && check3)
+            if (check1 && check2 && check3 && check4)
             {
                 MatrixA.RowCount = rows1;
                 MatrixA.ColumnCount = columns1;

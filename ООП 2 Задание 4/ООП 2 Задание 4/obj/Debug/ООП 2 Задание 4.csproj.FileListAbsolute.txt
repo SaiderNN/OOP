@@ -9,3 +9,14 @@ C:\Users\Saider\source\repos\ООП 2 Задание 4\ООП 2 Задание 4
 C:\Users\Saider\source\repos\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.csproj.CoreCompileInputs.cache
 C:\Users\Saider\source\repos\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.exe
 C:\Users\Saider\source\repos\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.pdb
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\bin\Debug\ООП 2 Задание 4.exe.config
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\bin\Debug\ООП 2 Задание 4.exe
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\bin\Debug\ООП 2 Задание 4.pdb
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП_2_Задание_4.Form1.resources
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП_2_Задание_4.Properties.Resources.resources
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.csproj.GenerateResource.cache
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.exe
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 4\ООП 2 Задание 4\obj\Debug\ООП 2 Задание 4.pdb

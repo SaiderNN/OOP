@@ -22,3 +22,27 @@ C:\Users\Saider\source\repos\ООП 2 Задание 1\Тест1\bin\Debug\Micro
 C:\Users\Saider\source\repos\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.csproj.CopyComplete
 C:\Users\Saider\source\repos\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.dll
 C:\Users\Saider\source\repos\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.pdb
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Тест1.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Тест1.pdb
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ООП 2 Задание 1.exe
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ООП 2 Задание 1.pdb
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\ООП 2 Задание 1.exe.config
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.csproj.AssemblyReference.cache
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.csproj.CoreCompileInputs.cache
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.csproj.CopyComplete
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.dll
+C:\Users\Saider\source\repos\OOP\ООП 2 Задание 1\Тест1\obj\Debug\Тест1.pdb
